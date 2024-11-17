@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @khushbu0203
-- 👀 I’m interested in webdev and new technologies
-- 🌱 I’m currently learning Front-end development
+
   
 
 <!---
